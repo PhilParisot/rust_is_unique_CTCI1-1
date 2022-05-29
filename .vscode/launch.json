@@ -7,15 +7,15 @@
         {
             "type": "lldb",
             "request": "launch",
-            "name": "Debug executable 'rust_is_unique_CTCI1-1'",
+            "name": "Debug executable 'rust_is_unique_ctci1-1'",
             "cargo": {
                 "args": [
                     "build",
-                    "--bin=rust_is_unique_CTCI1-1",
-                    "--package=rust_is_unique_CTCI1-1"
+                    "--bin=rust_is_unique_ctci1-1",
+                    "--package=rust_is_unique_ctci1-1"
                 ],
                 "filter": {
-                    "name": "rust_is_unique_CTCI1-1",
+                    "name": "rust_is_unique_ctci1-1",
                     "kind": "bin"
                 }
             },
@@ -25,16 +25,16 @@
         {
             "type": "lldb",
             "request": "launch",
-            "name": "Debug unit tests in executable 'rust_is_unique_CTCI1-1'",
+            "name": "Debug unit tests in executable 'rust_is_unique_ctci1-1'",
             "cargo": {
                 "args": [
                     "test",
                     "--no-run",
-                    "--bin=rust_is_unique_CTCI1-1",
-                    "--package=rust_is_unique_CTCI1-1"
+                    "--bin=rust_is_unique_ctci1-1",
+                    "--package=rust_is_unique_ctci1-1"
                 ],
                 "filter": {
-                    "name": "rust_is_unique_CTCI1-1",
+                    "name": "rust_is_unique_ctci1-1",
                     "kind": "bin"
                 }
             },

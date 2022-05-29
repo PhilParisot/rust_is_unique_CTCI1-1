@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rust_is_unique_CTCI1-1"
+name = "rust_is_unique_ctci1-1"
 version = "0.1.0"
